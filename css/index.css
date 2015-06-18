@@ -1,1 +1,12 @@
 @charset="utf-8"
+.div_img{
+	width: 500px;
+	height: 100px;
+	background: red;
+	overflow: hidden;
+}
+.div_img img{
+	width: 100%;
+	height: auto;
+
+}
